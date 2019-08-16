@@ -1,5 +1,13 @@
 # Web API IV Challenge
 
+The API is hosted at [https://mth-webapi-iv.herokuapp.com](https://mth-webapi-iv.herokuapp.com).
+The API uses the Web API II backend, whose documentation can be found at
+[https://github.com/hagnerd/webapi-ii-challenge](https://github.com/hagnerd/webapi-ii-challenge).
+
+---
+
+## Description
+
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
 ## Instructions
